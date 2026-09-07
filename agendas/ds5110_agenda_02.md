@@ -3,30 +3,34 @@
 
 ### Admin Items
 
-- Complete Qualtrics interest survey for project matching if you haven't
 
 ---
 
 ### Upcoming Deliverables
 
-Due Friday, May 29, 2026 at 11:59pm ET:
+Due Friday, Sep 4 at 11:59pm ET:
 - Module 1 Quiz: Foundations of Big Data Systems
 
-Due by Friday, June 5 at 11:59pm ET
-- Quiz 2: Spark Architecture and Execution Model
+Due Friday, Sep 11 at 11:59pm ET:
 - Lab 1: Python Warmup and Logfile Analytics
+- Module 2 Quiz: Spark Architecture and Execution Model
+
 
 ---
 
-- Review notebook from Module 1: Map Reduce Framework
+- Brief review from last time: map_reduce_framework.ipynb
+- Discuss MapReduce paper:  
+  What are the benefits of MapReduce?  
+  At a high level, how does it work? (what are the big ideas?)  
+  What are stragglers and how are they handled?  
+  How are these events handled: worker failure? driver failure?  
 
 - Review notebook: Running Spark on a cluster
   - Discusses cores / nodes / driver / worker / executor
   - Job / Stage / Task
 
 - Review notebook: RDDs
-
-- Review lab: lab_python_and_logfile.ipynb
-
+- Live demo: review and category analytics
+- Meet your teammates
 
 ---
